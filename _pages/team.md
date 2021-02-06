@@ -136,8 +136,10 @@ feature_row2:
             "
 ---
 {% include feature_rows id="feature_row1" type="left"%}
+
 # Former group members
 {% include feature_rows id="feature_row2" type="left"%}
+
 # Collaborators
 - Mary F. Wheeler, The University of Texas at Austin [[webpage](https://users.oden.utexas.edu/~mfw/)]
 - Ibrahim Hoteit, King Abdullah University of Science and Technology [[webpage](https://www.kaust.edu.sa/en/study/faculty/ibrahim-hoteit)]
